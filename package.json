@@ -1,6 +1,6 @@
 {
   "name": "s-express",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "my js express server",
   "main": "app.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/shimguh/s-express#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "s-common-fun": "^0.2.0"
   }
 }
